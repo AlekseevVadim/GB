@@ -1,0 +1,5234 @@
+[
+  {
+    "name": "Data Scientist в Сбер",
+    "link": "https://hh.ru/vacancy/48939262?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. Data Science",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-data"
+    }
+  },
+  {
+    "name": "Data Engineer в Сбере",
+    "link": "https://hh.ru/vacancy/47301394?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Engineer в Сбере",
+    "link": "https://hh.ru/vacancy/47301392?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Engineer в Сбере",
+    "link": "https://hh.ru/vacancy/47301396?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Scientist (команда Поиска)",
+    "link": "https://hh.ru/vacancy/46048820?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "HeadHunter::Analytics/Data Science",
+      "address": "Москва, Алексеевская",
+      "link": "https://hh.ru/employer/1455?dpt=hh-1455-ds"
+    }
+  },
+  {
+    "name": "Data - инженер",
+    "link": "https://hh.ru/vacancy/48927705?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. Data Science",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-data"
+    }
+  },
+  {
+    "name": "Инженер данных (Data Engineer)",
+    "link": "https://hh.ru/vacancy/48975806?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 200000,
+      "max": 250000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО Студия Данных",
+      "address": "Москва, Алексеевская",
+      "link": "https://hh.ru/employer/4021338"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/49076838?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 2000,
+      "max": 3000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "B9",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5810420"
+    }
+  },
+  {
+    "name": "Python Data Engineer",
+    "link": "https://hh.ru/vacancy/48281261?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 150000,
+      "max": 180000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО ФармХаб",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1542466"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48696796?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 1700,
+      "max": null,
+      "value": "EUR"
+    },
+    "employer": {
+      "name": "Yenisei Media",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3720758"
+    }
+  },
+  {
+    "name": "Junior Data Engineer (Python)",
+    "link": "https://hh.ru/vacancy/47914759?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 120000,
+      "max": 120000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "DataFork",
+      "address": "Москва, Выставочная и еще 2 ",
+      "link": "https://hh.ru/employer/3319598"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/46257863?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 210000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Метр Квадратный",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4151200"
+    }
+  },
+  {
+    "name": "Middle Data Scientist / Computer Vision Engineer",
+    "link": "https://hh.ru/vacancy/47622649?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 180000,
+      "max": 250000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ZennoLab",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/723714"
+    }
+  },
+  {
+    "name": "Data Engineer / ETL Developer",
+    "link": "https://hh.ru/vacancy/48377636?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 250000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Renaissance Capital",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2102"
+    }
+  },
+  {
+    "name": "Data Analyst",
+    "link": "https://hh.ru/vacancy/48502218?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 300000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "4CV Recruitment Services",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5231648"
+    }
+  },
+  {
+    "name": "Data engineer",
+    "link": "https://hh.ru/vacancy/49089006?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 100000,
+      "max": 300000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Machine consulting ltd",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5760114"
+    }
+  },
+  {
+    "name": "Data Engineer ETL",
+    "link": "https://hh.ru/vacancy/49080876?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 270000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Wanted",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5174849"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/45396149?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 400000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ГК АСНА",
+      "address": "Москва, Ботанический сад",
+      "link": "https://hh.ru/employer/688647"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48913440?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "SberAutoTech",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5267014"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/47456008?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Ozon Информационные технологии",
+      "address": "Москва, Выставочная и еще 2 ",
+      "link": "https://hh.ru/employer/2180?dpt=ozonru-2180-dev"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/49053565?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "WILDBERRIES",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/87021"
+    }
+  },
+  {
+    "name": "Data engineer команды DWH",
+    "link": "https://hh.ru/vacancy/49071983?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Middle Data Engineer (GameDev)",
+    "link": "https://hh.ru/vacancy/48060683?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 150000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "AppQuantum",
+      "address": "Москва, Автозаводская",
+      "link": "https://hh.ru/employer/3380507"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48500744?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Plarium",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1753419"
+    }
+  },
+  {
+    "name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/48500730?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Plarium",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1753419"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48747043?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "BRVZ",
+      "address": "Москва, Войковская",
+      "link": "https://hh.ru/employer/23330?dpt=23330-23330-BRVZ"
+    }
+  },
+  {
+    "name": "Data Engineer (Tinkoff Asia)",
+    "link": "https://hh.ru/vacancy/49027925?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Тинькофф",
+      "address": "Москва, Водный стадион",
+      "link": "https://hh.ru/employer/78638"
+    }
+  },
+  {
+    "name": "Data engineer/Data administrator [Remote]",
+    "link": "https://hh.ru/vacancy/49068533?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Cloud Linux",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1245452"
+    }
+  },
+  {
+    "name": "Data Analyst Intern",
+    "link": "https://hh.ru/vacancy/43435279?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "NXP Semiconductors",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5900"
+    }
+  },
+  {
+    "name": "Data Engineer SberChat",
+    "link": "https://hh.ru/vacancy/48396556?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Engineer/Support Engineer",
+    "link": "https://hh.ru/vacancy/49082793?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва, Верхние Котлы и еще 1 ",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/46559439?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Engineer (Python)",
+    "link": "https://hh.ru/vacancy/48601979?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Prisma Labs, inc.",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2622824"
+    }
+  },
+  {
+    "name": "Data Engineer SberDevices",
+    "link": "https://hh.ru/vacancy/49039663?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Engineer (Python)",
+    "link": "https://hh.ru/vacancy/48219778?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Detego",
+      "address": "Москва, Новокузнецкая",
+      "link": "https://hh.ru/employer/3795484"
+    }
+  },
+  {
+    "name": "Data engineer",
+    "link": "https://hh.ru/vacancy/49030525?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. Data Science",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-data"
+    }
+  },
+  {
+    "name": "Data Engineer - Sales Home",
+    "link": "https://hh.ru/vacancy/48695213?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Deutsche Bank Technology Center",
+      "address": "Москва, Новокузнецкая и еще 2 ",
+      "link": "https://hh.ru/employer/1641540"
+    }
+  },
+  {
+    "name": "Lead Big Data Engineer",
+    "link": "https://hh.ru/vacancy/48923293?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "EPAM Systems, Inc.",
+      "address": "Москва, Нагатинская",
+      "link": "https://hh.ru/employer/6769"
+    }
+  },
+  {
+    "name": "Аналитик данных (Data Analyst/Data Engineer)",
+    "link": "https://hh.ru/vacancy/47938707?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО ТрансКонтейнер",
+      "address": "Москва, Маяковская",
+      "link": "https://hh.ru/employer/65922"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48784582?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Occipital, Inc.",
+      "address": "Москва, Тульская и еще 1 ",
+      "link": "https://hh.ru/employer/4347546"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/46467053?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ГКУ Инфогород",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2427329"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48973271?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Сравни.ру",
+      "address": "Москва, Площадь Ильича и еще 1 ",
+      "link": "https://hh.ru/employer/560786"
+    }
+  },
+  {
+    "name": "Middle data engineer/ Аналитик",
+    "link": "https://hh.ru/vacancy/48791374?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "LuckyOnline",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2639905"
+    }
+  },
+  {
+    "name": "Data Engineer (DWH)",
+    "link": "https://hh.ru/vacancy/46274596?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО Ростелеком",
+      "address": "Москва, Проспект Вернадского",
+      "link": "https://hh.ru/employer/2748"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48127451?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО Ростелеком",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2748"
+    }
+  },
+  {
+    "name": "Data Engineer в команду Collateral machine",
+    "link": "https://hh.ru/vacancy/48959671?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Райффайзенбанк",
+      "address": "Москва, Технопарк",
+      "link": "https://hh.ru/employer/4023"
+    }
+  },
+  {
+    "name": "Senior Data Engineer",
+    "link": "https://hh.ru/vacancy/48248733?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Data scientist (аналитик данных) \\ Software engineer",
+    "link": "https://hh.ru/vacancy/47251128?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО «Баланс-Платформа»",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2643808"
+    }
+  },
+  {
+    "name": "Data engineer",
+    "link": "https://hh.ru/vacancy/48923538?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Ozon Fintech",
+      "address": "Москва, Выставочная и еще 2 ",
+      "link": "https://hh.ru/employer/2180?dpt=ozonru-2180-fintech"
+    }
+  },
+  {
+    "name": "Data analyst/engineer (remote)",
+    "link": "https://hh.ru/vacancy/48944379?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Luxoft",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1304"
+    }
+  },
+  {
+    "name": "Data Engineer / Разработчик",
+    "link": "https://hh.ru/vacancy/48131148?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "X5foodtech",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4716984"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/46619254?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/46281788?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 250000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "BestDoctor",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2730772"
+    }
+  },
+  {
+    "name": "Data Scientist (Computer Vision)",
+    "link": "https://hh.ru/vacancy/48923381?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Datana (ГК ЛАНИТ)",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/733?dpt=733-733-datana"
+    }
+  },
+  {
+    "name": "Data engineer",
+    "link": "https://hh.ru/vacancy/44980616?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Актион Технологии",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3460322"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48215155?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АльфаСтрахование",
+      "address": "Москва, Шаболовская",
+      "link": "https://hh.ru/employer/370"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48373399?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Банки.ру",
+      "address": "Москва, Нахимовский проспект",
+      "link": "https://hh.ru/employer/72986"
+    }
+  },
+  {
+    "name": "Big Data Engineer",
+    "link": "https://hh.ru/vacancy/48896679?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 200000,
+      "max": 350000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ИП Шпак Виктория Сергеевна",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3140842"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48944503?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО РСХБ-Интех",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3131901"
+    }
+  },
+  {
+    "name": "Data Engineer (Ядро Аватара)",
+    "link": "https://hh.ru/vacancy/48911216?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская и еще 1 ",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Engineer (DataUnicorn.Al team)",
+    "link": "https://hh.ru/vacancy/48836967?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Компания БКС",
+      "address": "Москва, Проспект Мира и еще 2 ",
+      "link": "https://hh.ru/employer/1833"
+    }
+  },
+  {
+    "name": "Senior Data Engineer",
+    "link": "https://hh.ru/vacancy/48845153?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Циан",
+      "address": "Москва, Преображенская площадь",
+      "link": "https://hh.ru/employer/1429999"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48737536?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АДВ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1994"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48812462?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Vivid Money",
+      "address": "Москва, Динамо",
+      "link": "https://hh.ru/employer/4582320"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48751714?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 170000,
+      "max": 230000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО КАЗАНЬЭКСПРЕСС",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3590333"
+    }
+  },
+  {
+    "name": "Data engineer",
+    "link": "https://hh.ru/vacancy/48723412?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "EXANTE",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/597423"
+    }
+  },
+  {
+    "name": "Data Analyst (marketing)",
+    "link": "https://hh.ru/vacancy/48758788?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 250000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Borzo",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3730831"
+    }
+  },
+  {
+    "name": "Data Engineer (SBI)",
+    "link": "https://hh.ru/vacancy/48803440?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/43731399?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "СберМегаМаркет",
+      "address": "Москва, Бауманская и еще 1 ",
+      "link": "https://hh.ru/employer/2804795"
+    }
+  },
+  {
+    "name": "Data engineer",
+    "link": "https://hh.ru/vacancy/38275082?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "СберЗвук",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1829949"
+    }
+  },
+  {
+    "name": "Data Scientist (middle or senior)",
+    "link": "https://hh.ru/vacancy/42956307?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 500000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО РАБЛЗ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2223982"
+    }
+  },
+  {
+    "name": "Big Data Engineer",
+    "link": "https://hh.ru/vacancy/48307874?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "First Line Software",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/638130"
+    }
+  },
+  {
+    "name": "Data engineer",
+    "link": "https://hh.ru/vacancy/48818281?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Леруа Мерлен. Центральный офис",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/8582?dpt=8582-8582-lmofis"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/47164172?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "TalentTech",
+      "address": "Москва, Марьина Роща и еще 2 ",
+      "link": "https://hh.ru/employer/3238482"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48709062?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "XWAY",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4624254"
+    }
+  },
+  {
+    "name": "Data Engineer (DWH, Senior)",
+    "link": "https://hh.ru/vacancy/48652402?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 320000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО РАБЛЗ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2223982"
+    }
+  },
+  {
+    "name": "Data engineer (Big Data)",
+    "link": "https://hh.ru/vacancy/48715226?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ЗАО КонсультантПлюс",
+      "address": "Москва, Профсоюзная",
+      "link": "https://hh.ru/employer/2238"
+    }
+  },
+  {
+    "name": "Data Engineer / ML Engineer (Middle)",
+    "link": "https://hh.ru/vacancy/42493119?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 350000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО РАБЛЗ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2223982"
+    }
+  },
+  {
+    "name": "Data Engineer (DWH, Middle+)",
+    "link": "https://hh.ru/vacancy/47048248?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 250000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО РАБЛЗ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2223982"
+    }
+  },
+  {
+    "name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/48093098?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Bell Integrator",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/6189"
+    }
+  },
+  {
+    "name": "Data engineer",
+    "link": "https://hh.ru/vacancy/48520797?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Кузница Кадров",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3197321"
+    }
+  },
+  {
+    "name": "Data Engineer/Analyst DWH (Управление валидации)",
+    "link": "https://hh.ru/vacancy/48513633?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Data Engineer в команду CVM",
+    "link": "https://hh.ru/vacancy/48541167?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Райффайзенбанк",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4023"
+    }
+  },
+  {
+    "name": "Data Engineer (remote)",
+    "link": "https://hh.ru/vacancy/48522541?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "СберЗдоровье",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1959252"
+    }
+  },
+  {
+    "name": "Data Engineer SberDevices",
+    "link": "https://hh.ru/vacancy/48485991?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Engineer (Infrastructure)",
+    "link": "https://hh.ru/vacancy/48220381?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ZiMAD",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/780623"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/45845654?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская и еще 1 ",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/46949347?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "UniCredit Bank",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1754"
+    }
+  },
+  {
+    "name": "Data Scientist/Data Engineer",
+    "link": "https://hh.ru/vacancy/46820432?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Auriga",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/738"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/45568954?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "«РОСБАНК, Societe Generale Group»",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/599?dpt=rosbank-599-opyt"
+    }
+  },
+  {
+    "name": "Big Data Engineer",
+    "link": "https://hh.ru/vacancy/46970129?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "EPAM Systems, Inc.",
+      "address": "Москва, Нагатинская",
+      "link": "https://hh.ru/employer/6769"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48484556?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "AliExpress Россия",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2592107"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/48203068?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Aventus Group (ООО «МКК КапиталЪ-НТ»)",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4448058"
+    }
+  },
+  {
+    "name": "Data Scientist / Machine Learning Engineer",
+    "link": "https://hh.ru/vacancy/48484577?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "AliExpress Россия",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2592107"
+    }
+  },
+  {
+    "name": "Удаленный стажер-аналитик (анализ данных, data science, data engineer, ml engineer)",
+    "link": "https://hh.ru/vacancy/48261923?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО МАЙНДСЭТ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3666817"
+    }
+  },
+  {
+    "name": "Data engineer (Big Data)",
+    "link": "https://hh.ru/vacancy/48405123?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Tele2",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4219"
+    }
+  },
+  {
+    "name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/47471519?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Леруа Мерлен. Центральный офис",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/8582?dpt=8582-8582-lmofis"
+    }
+  },
+  {
+    "name": "Data engineer (Python Hadoop Spark)",
+    "link": "https://hh.ru/vacancy/48403574?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "X5 RETAIL GROUP",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4233"
+    }
+  },
+  {
+    "name": "Junior Data Engineer/Analyst",
+    "link": "https://hh.ru/vacancy/48346795?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "OMD OM Group",
+      "address": "Москва, Кузнецкий мост",
+      "link": "https://hh.ru/employer/1144"
+    }
+  },
+  {
+    "name": "Data engineer (Разработчик)",
+    "link": "https://hh.ru/vacancy/48409580?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "GlobalCareer",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/680293"
+    }
+  },
+  {
+    "name": "Principal Software Engineer (Open Source)",
+    "link": "https://hh.ru/vacancy/46377575?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 8000,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Cube Dev",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4573853"
+    }
+  },
+  {
+    "name": "Senior Software Engineer, Database Engineering (Cube Core)",
+    "link": "https://hh.ru/vacancy/46377490?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 6000,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Cube Dev",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4573853"
+    }
+  },
+  {
+    "name": "Data/Analytics Engineer",
+    "link": "https://hh.ru/vacancy/48599369?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "OWOX",
+      "address": "Москва, Новокузнецкая",
+      "link": "https://hh.ru/employer/989709"
+    }
+  },
+  {
+    "name": "Data / ML Engineer",
+    "link": "https://hh.ru/vacancy/45498560?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Компания «СПОРТМАСТЕР», SM Lab",
+      "address": "Москва, Аэропорт",
+      "link": "https://hh.ru/employer/2343?dpt=2343-2343-it"
+    }
+  },
+  {
+    "name": "BI Engineer (Tableau)",
+    "link": "https://hh.ru/vacancy/47882723?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 250000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "inDriver",
+      "address": "Москва, Белорусская",
+      "link": "https://hh.ru/employer/2524797"
+    }
+  },
+  {
+    "name": "DevOps Engineer - Big Data",
+    "link": "https://hh.ru/vacancy/48746264?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "BRVZ",
+      "address": "Москва, Войковская",
+      "link": "https://hh.ru/employer/23330?dpt=23330-23330-BRVZ"
+    }
+  },
+  {
+    "name": "Solutions Supply Data Engineer",
+    "link": "https://hh.ru/vacancy/49048888?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "AB InBev Efes",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/15959"
+    }
+  },
+  {
+    "name": "Senior Java Developer - Core Platform (to Canada)",
+    "link": "https://hh.ru/vacancy/46798531?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 10000,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Behavox",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1767241"
+    }
+  },
+  {
+    "name": "Data инженер",
+    "link": "https://hh.ru/vacancy/47006034?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Diamond Personnel R&C",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/37623"
+    }
+  },
+  {
+    "name": "Data Analyst",
+    "link": "https://hh.ru/vacancy/49052401?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "DODO BRANDS (Dodo Pizza, Drinkit, Doner 42)",
+      "address": "Москва, Автозаводская и еще 1 ",
+      "link": "https://hh.ru/employer/1520838"
+    }
+  },
+  {
+    "name": "Аналитик-разработчик / Data scientist (Middle/Senior)",
+    "link": "https://hh.ru/vacancy/48252917?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Компания «СПОРТМАСТЕР», SM Lab",
+      "address": "Москва, Аэропорт",
+      "link": "https://hh.ru/employer/2343?dpt=2343-2343-it"
+    }
+  },
+  {
+    "name": "Data Science, Роботизация",
+    "link": "https://hh.ru/vacancy/49075412?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Ozon Информационные технологии",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2180?dpt=ozonru-2180-dev"
+    }
+  },
+  {
+    "name": "Senior Data Developer",
+    "link": "https://hh.ru/vacancy/47711236?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Самокат (ООО Умное пространство)",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5488399"
+    }
+  },
+  {
+    "name": "Al Deep Learning Engineer",
+    "link": "https://hh.ru/vacancy/48598080?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Северный Центр Позитроники",
+      "address": "Москва, Павелецкая",
+      "link": "https://hh.ru/employer/4548625"
+    }
+  },
+  {
+    "name": "Senior Research Engineer",
+    "link": "https://hh.ru/vacancy/46571658?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 230000,
+      "max": 300000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Scalable Solutions",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5078562"
+    }
+  },
+  {
+    "name": "Senior Software Engineer with Proficiency in Algorithms and Math",
+    "link": "https://hh.ru/vacancy/48303382?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 5500,
+      "max": 8000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "ООО ТОП СЕГМЕНТ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2700530"
+    }
+  },
+  {
+    "name": "Team Lead data engineer (удаленно)",
+    "link": "https://hh.ru/vacancy/48878042?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Билайн",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4934"
+    }
+  },
+  {
+    "name": "Data Engineer (Premium solutions)",
+    "link": "https://hh.ru/vacancy/48796914?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Application Developer Big Data",
+    "link": "https://hh.ru/vacancy/48415474?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "BRVZ",
+      "address": "Москва, Войковская",
+      "link": "https://hh.ru/employer/23330?dpt=23330-23330-BRVZ"
+    }
+  },
+  {
+    "name": "Devops Engineer (сервисы для data science) (удаленно)",
+    "link": "https://hh.ru/vacancy/48971120?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Билайн",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4934"
+    }
+  },
+  {
+    "name": "ML/RL Engineer",
+    "link": "https://hh.ru/vacancy/48301399?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Wargaming, Moscow",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/662769?dpt=662769-662769-moscow"
+    }
+  },
+  {
+    "name": "Senior Software Engineer (Python + Open edX)",
+    "link": "https://hh.ru/vacancy/45603878?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Schaffhausen Institute of Technology",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5022461"
+    }
+  },
+  {
+    "name": "Android Software Engineer - Credit team (remote)",
+    "link": "https://hh.ru/vacancy/48918010?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 223000,
+      "max": 430560,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Revolut",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2167982"
+    }
+  },
+  {
+    "name": "Java Software Developer",
+    "link": "https://hh.ru/vacancy/48816630?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 200000,
+      "max": 380000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Urban Technology GmbH",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4790751"
+    }
+  },
+  {
+    "name": "Разработчик BI",
+    "link": "https://hh.ru/vacancy/48975815?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 200000,
+      "max": 250000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО Студия Данных",
+      "address": "Москва, Алексеевская",
+      "link": "https://hh.ru/employer/4021338"
+    }
+  },
+  {
+    "name": "DevOps engineer",
+    "link": "https://hh.ru/vacancy/47175180?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 5000,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "NetworkOptix",
+      "address": "Москва, Бауманская и еще 1 ",
+      "link": "https://hh.ru/employer/899854"
+    }
+  },
+  {
+    "name": "Calibration Engineer (3D Computer Vision, C++)",
+    "link": "https://hh.ru/vacancy/48490750?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Occipital, Inc.",
+      "address": "Москва, Тульская и еще 1 ",
+      "link": "https://hh.ru/employer/4347546"
+    }
+  },
+  {
+    "name": "Data Engineer Junior",
+    "link": "https://hh.ru/vacancy/46823770?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 80000,
+      "max": 100000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Открытые Технологии",
+      "address": "Москва, Серпуховская",
+      "link": "https://hh.ru/employer/2808"
+    }
+  },
+  {
+    "name": "Инженер по нагрузочному тестированию",
+    "link": "https://hh.ru/vacancy/48836465?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Билайн",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4934"
+    }
+  },
+  {
+    "name": "Дата инженер/Инженер данных/Data engineer",
+    "link": "https://hh.ru/vacancy/48057303?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Леруа Мерлен. Центральный офис",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/8582?dpt=8582-8582-lmofis"
+    }
+  },
+  {
+    "name": "Руководитель Data science",
+    "link": "https://hh.ru/vacancy/47180814?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "СберМегаМаркет",
+      "address": "Москва, Бауманская и еще 1 ",
+      "link": "https://hh.ru/employer/2804795"
+    }
+  },
+  {
+    "name": "BI Developer",
+    "link": "https://hh.ru/vacancy/48327135?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 400000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ГК АСНА",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/688647"
+    }
+  },
+  {
+    "name": "ML Engineer",
+    "link": "https://hh.ru/vacancy/47797575?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Skyeng",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1122462"
+    }
+  },
+  {
+    "name": "QA engineer - dbCap",
+    "link": "https://hh.ru/vacancy/48585930?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Deutsche Bank Technology Center",
+      "address": "Москва, Новокузнецкая и еще 2 ",
+      "link": "https://hh.ru/employer/1641540"
+    }
+  },
+  {
+    "name": "CI Engineer",
+    "link": "https://hh.ru/vacancy/39890802?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 5000,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "NetworkOptix",
+      "address": "Москва, Бауманская и еще 1 ",
+      "link": "https://hh.ru/employer/899854"
+    }
+  },
+  {
+    "name": "Senior QA Engineer",
+    "link": "https://hh.ru/vacancy/48010204?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Самокат (ООО Умное пространство)",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5488399"
+    }
+  },
+  {
+    "name": "IT Engineer",
+    "link": "https://hh.ru/vacancy/48923998?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Transsion",
+      "address": "Москва, Новые Черемушки",
+      "link": "https://hh.ru/employer/3122766"
+    }
+  },
+  {
+    "name": "Business Analyst in a product company",
+    "link": "https://hh.ru/vacancy/48977053?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 1600,
+      "max": 2300,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "MediaSapiens",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3839234"
+    }
+  },
+  {
+    "name": "Senior Functional Testing Engineer for a Software Company",
+    "link": "https://hh.ru/vacancy/48650272?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "EPAM Systems, Inc.",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/6769"
+    }
+  },
+  {
+    "name": "AI Engineer",
+    "link": "https://hh.ru/vacancy/46536831?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Wargaming, Moscow",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/662769?dpt=662769-662769-moscow"
+    }
+  },
+  {
+    "name": "Devops Engineer (Kubernetes)",
+    "link": "https://hh.ru/vacancy/47440532?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Билайн",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4934"
+    }
+  },
+  {
+    "name": "Backend Engineer",
+    "link": "https://hh.ru/vacancy/48270242?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 150000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Droice Labs",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2850947"
+    }
+  },
+  {
+    "name": "Senior Node.js Engineer (Cube Core)",
+    "link": "https://hh.ru/vacancy/46377472?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 6000,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Cube Dev",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4573853"
+    }
+  },
+  {
+    "name": "QA Engineer",
+    "link": "https://hh.ru/vacancy/43388312?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 150000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Bip.ru",
+      "address": "Москва, Бауманская",
+      "link": "https://hh.ru/employer/2652595"
+    }
+  },
+  {
+    "name": "Software Engineer (C++)",
+    "link": "https://hh.ru/vacancy/49044200?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 3000,
+      "max": 5000,
+      "value": "EUR"
+    },
+    "employer": {
+      "name": "Exness",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1312113"
+    }
+  },
+  {
+    "name": "DevOps инженер",
+    "link": "https://hh.ru/vacancy/48613887?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 200000,
+      "max": 300000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО Русштрафы",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2528966"
+    }
+  },
+  {
+    "name": "SRE/DevOps for Infrastructure Team [Remote]",
+    "link": "https://hh.ru/vacancy/48903356?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Cloud Linux",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1245452"
+    }
+  },
+  {
+    "name": "Senior Node.js Engineer (Cube Cloud)",
+    "link": "https://hh.ru/vacancy/46377530?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 6000,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Cube Dev",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4573853"
+    }
+  },
+  {
+    "name": "Senior DevOps Engineer",
+    "link": "https://hh.ru/vacancy/49083319?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 300000,
+      "max": 350000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Валарм",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2156053"
+    }
+  },
+  {
+    "name": "QA - engineer / WEB-developer",
+    "link": "https://hh.ru/vacancy/47092237?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 100000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО Перфект Системс",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1713030"
+    }
+  },
+  {
+    "name": "Senior Software Engineer",
+    "link": "https://hh.ru/vacancy/48184204?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Wargaming, Moscow",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/662769?dpt=662769-662769-moscow"
+    }
+  },
+  {
+    "name": "Python разработчик (Middle/Senior)",
+    "link": "https://hh.ru/vacancy/49000269?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 160000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО ВБЦ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2005098"
+    }
+  },
+  {
+    "name": "Инженер данных",
+    "link": "https://hh.ru/vacancy/49050822?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 150000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Hi, Rockits!",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1111058"
+    }
+  },
+  {
+    "name": "Product Manager",
+    "link": "https://hh.ru/vacancy/48453527?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 4000,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Novakid Inc",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/851716"
+    }
+  },
+  {
+    "name": "Senior QA Engineer",
+    "link": "https://hh.ru/vacancy/47383815?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Константа",
+      "address": "Москва, Красносельская",
+      "link": "https://hh.ru/employer/2279941"
+    }
+  },
+  {
+    "name": "Frontend Developer with Angular Universal Experience",
+    "link": "https://hh.ru/vacancy/48261766?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 5700,
+      "max": 8000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Top Remote Talent",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4955407"
+    }
+  },
+  {
+    "name": "BI/System analyst",
+    "link": "https://hh.ru/vacancy/49081843?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 140000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Деметра-Холдинг",
+      "address": "Москва, Выставочная",
+      "link": "https://hh.ru/employer/5235703"
+    }
+  },
+  {
+    "name": "Researcher of Network Algorithm and Modeling",
+    "link": "https://hh.ru/vacancy/48219841?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "HUAWEI",
+      "address": "Москва, Смоленская",
+      "link": "https://hh.ru/employer/2873"
+    }
+  },
+  {
+    "name": "Azure DevOps Engineer (remote or office)",
+    "link": "https://hh.ru/vacancy/48112300?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "VIAcode",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/84051"
+    }
+  },
+  {
+    "name": "IT Infrastructure Manager [Remote]",
+    "link": "https://hh.ru/vacancy/49068646?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Cloud Linux",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1245452"
+    }
+  },
+  {
+    "name": "Full-stack developer – KYC Coverage Connect",
+    "link": "https://hh.ru/vacancy/47008506?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Deutsche Bank Technology Center",
+      "address": "Москва, Новокузнецкая и еще 2 ",
+      "link": "https://hh.ru/employer/1641540"
+    }
+  },
+  {
+    "name": "Java Microservice Expert - Cloud Software Development",
+    "link": "https://hh.ru/vacancy/49083819?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Ingram Micro",
+      "address": "Москва, Белорусская",
+      "link": "https://hh.ru/employer/7643"
+    }
+  },
+  {
+    "name": "Senior QA Automation Engineer",
+    "link": "https://hh.ru/vacancy/49032646?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 4000,
+      "max": 5000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Soveren",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5200755"
+    }
+  },
+  {
+    "name": "Frontend Developer (Mid/Senior, Remote)",
+    "link": "https://hh.ru/vacancy/48706219?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 3500,
+      "max": 6000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Ennabl Inc",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5114471"
+    }
+  },
+  {
+    "name": "QA Automation engineer (Java)",
+    "link": "https://hh.ru/vacancy/49064867?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО МТС Банк. IT",
+      "address": "Москва, Технопарк",
+      "link": "https://hh.ru/employer/4496?dpt=4496-4496-it"
+    }
+  },
+  {
+    "name": "Product Manager (Teacher operations)",
+    "link": "https://hh.ru/vacancy/48342975?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Novakid Inc",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/851716"
+    }
+  },
+  {
+    "name": "Архитектор данных",
+    "link": "https://hh.ru/vacancy/48975810?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 250000,
+      "max": 300000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО Студия Данных",
+      "address": "Москва, Алексеевская",
+      "link": "https://hh.ru/employer/4021338"
+    }
+  },
+  {
+    "name": "Senior Tech (IT) Recruiter",
+    "link": "https://hh.ru/vacancy/48943258?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 197550,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Revolut",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2167982"
+    }
+  },
+  {
+    "name": "Senior RTL Design Engineer",
+    "link": "https://hh.ru/vacancy/48814162?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Ядро Микропроцессоры",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5365042"
+    }
+  },
+  {
+    "name": "Head of Technical Writing",
+    "link": "https://hh.ru/vacancy/48418947?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Яндекс",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1740"
+    }
+  },
+  {
+    "name": "Chief бизнес-аналитик EPAM",
+    "link": "https://hh.ru/vacancy/48437658?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "EPAM Systems, Inc.",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/6769"
+    }
+  },
+  {
+    "name": "Senior C++ Core Developer, Moscow/remote",
+    "link": "https://hh.ru/vacancy/49030316?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ZeptoLab",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/882115"
+    }
+  },
+  {
+    "name": "Инженер по данным (Дата-инженер)",
+    "link": "https://hh.ru/vacancy/42835759?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ФКУ ЦЭАИТ СП",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/122218"
+    }
+  },
+  {
+    "name": "Team Lead направления визуализации данных",
+    "link": "https://hh.ru/vacancy/49078392?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Московский метрополитен",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/869045"
+    }
+  },
+  {
+    "name": "Продуктовый аналитик/Аналитик по ассортименту",
+    "link": "https://hh.ru/vacancy/48574936?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 150000,
+      "max": 170000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "SpaceK World",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5088555"
+    }
+  },
+  {
+    "name": "Системный аналитик",
+    "link": "https://hh.ru/vacancy/47988475?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Билайн",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4934"
+    }
+  },
+  {
+    "name": "DevOps Инженер",
+    "link": "https://hh.ru/vacancy/49045792?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Билайн",
+      "address": "Москва, Маяковская и еще 2 ",
+      "link": "https://hh.ru/employer/4934"
+    }
+  },
+  {
+    "name": "Администратор приложения/ DevOps инженер",
+    "link": "https://hh.ru/vacancy/48159874?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Билайн",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4934"
+    }
+  },
+  {
+    "name": "Software Engineering Manager/Технический архитектор",
+    "link": "https://hh.ru/vacancy/46400107?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Леруа Мерлен. Центральный офис",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/8582?dpt=8582-8582-lmofis"
+    }
+  },
+  {
+    "name": "Solution-инженер / архитектор",
+    "link": "https://hh.ru/vacancy/44779389?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 500000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ГК АСНА",
+      "address": "Москва, Ботанический сад",
+      "link": "https://hh.ru/employer/688647"
+    }
+  },
+  {
+    "name": "Technical/presales consultant (SaaS)",
+    "link": "https://hh.ru/vacancy/49059504?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 230000,
+      "max": 270000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ИП Бегачева Екатерина Борисовна",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5434969"
+    }
+  },
+  {
+    "name": "Senior веб-аналитик для телекоммуникационной компании",
+    "link": "https://hh.ru/vacancy/48450950?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "EPAM Systems, Inc.",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/6769"
+    }
+  },
+  {
+    "name": "Старший Инженер/Менеджер управления проблемами",
+    "link": "https://hh.ru/vacancy/48137201?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Билайн",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4934"
+    }
+  },
+  {
+    "name": "Бизнес аналитик (web)",
+    "link": "https://hh.ru/vacancy/47015981?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ЗАО Группа компаний С7",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/766468"
+    }
+  },
+  {
+    "name": "Release Engineer iOS",
+    "link": "https://hh.ru/vacancy/48296903?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "inDriver",
+      "address": "Москва, Белорусская",
+      "link": "https://hh.ru/employer/2524797"
+    }
+  },
+  {
+    "name": "IT Project manager",
+    "link": "https://hh.ru/vacancy/47954386?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Эвопром",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5677033"
+    }
+  },
+  {
+    "name": "Senior FullStack Developer at Via",
+    "link": "https://hh.ru/vacancy/48490719?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Он Зэ Спот Девелопмент",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2509056"
+    }
+  },
+  {
+    "name": "Тестировщик ПО/ Junior QA engineer",
+    "link": "https://hh.ru/vacancy/49060218?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 30000,
+      "max": 45000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО ВБЦ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2005098"
+    }
+  },
+  {
+    "name": "IT рекрутер",
+    "link": "https://hh.ru/vacancy/48647605?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 70000,
+      "max": 140000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ИП Дельман Дарья Олеговна",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4423636"
+    }
+  },
+  {
+    "name": "SEO Assistant [Remote]",
+    "link": "https://hh.ru/vacancy/45752276?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Cloud Linux",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1245452"
+    }
+  },
+  {
+    "name": "Fullstack developer - Sales Home",
+    "link": "https://hh.ru/vacancy/48695348?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Deutsche Bank Technology Center",
+      "address": "Москва, Новокузнецкая и еще 2 ",
+      "link": "https://hh.ru/employer/1641540"
+    }
+  },
+  {
+    "name": "Consultant (Implementation / PLM)",
+    "link": "https://hh.ru/vacancy/49080800?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 100000,
+      "max": 185000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Accentis CIS",
+      "address": "Москва, Павелецкая и еще 1 ",
+      "link": "https://hh.ru/employer/128908"
+    }
+  },
+  {
+    "name": "PHP Symfony Developer",
+    "link": "https://hh.ru/vacancy/48637901?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 2500,
+      "max": 5000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Top Remote Talent",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4955407"
+    }
+  },
+  {
+    "name": "Business Analytics Director / Директор по бизнес-аналитике",
+    "link": "https://hh.ru/vacancy/49070108?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "«Procter & Gamble», Опытный специалист",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4949?dpt=4949-4949-exp"
+    }
+  },
+  {
+    "name": "Sales Account Manager CIS Region/Business Unit Catalyst",
+    "link": "https://hh.ru/vacancy/48981299?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Clariant",
+      "address": "Москва, Новокузнецкая",
+      "link": "https://hh.ru/employer/2390"
+    }
+  },
+  {
+    "name": "Linux администратор",
+    "link": "https://hh.ru/vacancy/48260610?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 170000,
+      "max": 250000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Медиалогия",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/6382"
+    }
+  },
+  {
+    "name": "Senior Project Manager",
+    "link": "https://hh.ru/vacancy/48202715?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 200000,
+      "max": 300000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "FUNCORP",
+      "address": "Москва, Белорусская",
+      "link": "https://hh.ru/employer/1212374"
+    }
+  },
+  {
+    "name": "Developer Android or iOs",
+    "link": "https://hh.ru/vacancy/48108894?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Корсаков Евгений Александрович",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4669516"
+    }
+  },
+  {
+    "name": "Системный архитектор (сетевые технологии)",
+    "link": "https://hh.ru/vacancy/43856967?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Инфосэл",
+      "address": "Москва, Семеновская",
+      "link": "https://hh.ru/employer/3378"
+    }
+  },
+  {
+    "name": "ИТ рекрутер",
+    "link": "https://hh.ru/vacancy/48225233?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Sales / Account Executive (SaaS)",
+    "link": "https://hh.ru/vacancy/49038575?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ApprovalMax",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3135379"
+    }
+  },
+  {
+    "name": "BackEnd JAVA REACT (Senior) / Remote",
+    "link": "https://hh.ru/vacancy/47205666?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 200000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "HRS",
+      "address": "Москва, Курская и еще 2 ",
+      "link": "https://hh.ru/employer/5749"
+    }
+  },
+  {
+    "name": "Procurement Manager",
+    "link": "https://hh.ru/vacancy/49025073?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "FLSmidth Rus",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/209970"
+    }
+  },
+  {
+    "name": "DevOps",
+    "link": "https://hh.ru/vacancy/48002496?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Иннотех, Группа компаний",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4649269"
+    }
+  },
+  {
+    "name": "Support engineer junior",
+    "link": "https://hh.ru/vacancy/46654482?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 50000,
+      "max": 100000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Открытые Технологии",
+      "address": "Москва, Серпуховская",
+      "link": "https://hh.ru/employer/2808"
+    }
+  },
+  {
+    "name": "Инженер по автотестированию",
+    "link": "https://hh.ru/vacancy/46381252?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Инфосистемы Джет",
+      "address": "Москва, Савеловская",
+      "link": "https://hh.ru/employer/3095"
+    }
+  },
+  {
+    "name": "Head of Demand Generation and Growth",
+    "link": "https://hh.ru/vacancy/49083083?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Smartcat",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3230136"
+    }
+  },
+  {
+    "name": "Программист-аналитик",
+    "link": "https://hh.ru/vacancy/48936167?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 120000,
+      "max": 150000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Брок-Инвест-Сервис",
+      "address": "Москва, Дубровка и еще 1 ",
+      "link": "https://hh.ru/employer/13483"
+    }
+  },
+  {
+    "name": "Senior auditor",
+    "link": "https://hh.ru/vacancy/48070377?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Zeppelin Group",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/12197"
+    }
+  },
+  {
+    "name": "Maintenance Manager",
+    "link": "https://hh.ru/vacancy/49091805?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Arthur Hunt",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/13074"
+    }
+  },
+  {
+    "name": "Code reviewer (JavaScript)",
+    "link": "https://hh.ru/vacancy/44406444?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Яндекс.Практикум",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5008932"
+    }
+  },
+  {
+    "name": "IT Project Manager",
+    "link": "https://hh.ru/vacancy/49030264?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 3500,
+      "max": null,
+      "value": "EUR"
+    },
+    "employer": {
+      "name": "Wisebits",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1689648"
+    }
+  },
+  {
+    "name": "Technical Account Manager",
+    "link": "https://hh.ru/vacancy/49043026?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "IPONWEB Ltd (UK)",
+      "address": "Москва, Шаболовская",
+      "link": "https://hh.ru/employer/65093"
+    }
+  },
+  {
+    "name": "SMM - manager",
+    "link": "https://hh.ru/vacancy/47978401?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Иннотех, Группа компаний",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4649269"
+    }
+  },
+  {
+    "name": "Data Engineering Team Lead",
+    "link": "https://hh.ru/vacancy/45600853?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Криптонит",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3491569"
+    }
+  },
+  {
+    "name": "Front-end Vue.js Developer",
+    "link": "https://hh.ru/vacancy/49031319?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "YCLIENTS LLC",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/793926"
+    }
+  },
+  {
+    "name": "Аналитика данных/Data Scientist",
+    "link": "https://hh.ru/vacancy/49003987?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ATOMYZE",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5188598"
+    }
+  },
+  {
+    "name": "Инженер-архитектор",
+    "link": "https://hh.ru/vacancy/49022898?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО ИТ1",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5050306"
+    }
+  },
+  {
+    "name": "Junior /Middle Data engineer (SQL, ETL)",
+    "link": "https://hh.ru/vacancy/43730950?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "QIWI",
+      "address": "Москва, Чертановская",
+      "link": "https://hh.ru/employer/3125"
+    }
+  },
+  {
+    "name": "Data Engineer (BigData)",
+    "link": "https://hh.ru/vacancy/46640245?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Лига Цифровой Экономики",
+      "address": "Москва, Савеловская",
+      "link": "https://hh.ru/employer/2733062"
+    }
+  },
+  {
+    "name": "Junior software developer C++",
+    "link": "https://hh.ru/vacancy/43562429?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Parallels",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1736538"
+    }
+  },
+  {
+    "name": "DevOps Engineer",
+    "link": "https://hh.ru/vacancy/48996826?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Ericsson",
+      "address": "Москва, Войковская",
+      "link": "https://hh.ru/employer/76"
+    }
+  },
+  {
+    "name": "Senior DevOps Engineer",
+    "link": "https://hh.ru/vacancy/48254341?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Parallels",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1736538"
+    }
+  },
+  {
+    "name": "Senior Build and Release Engineer",
+    "link": "https://hh.ru/vacancy/48987228?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "GE (General Electric Company)",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/228"
+    }
+  },
+  {
+    "name": "Solution Architect (Electrical Architect)",
+    "link": "https://hh.ru/vacancy/49003489?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "HUAWEI",
+      "address": "Москва, Крылатское",
+      "link": "https://hh.ru/employer/2873"
+    }
+  },
+  {
+    "name": "Solution Architect",
+    "link": "https://hh.ru/vacancy/49008888?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "HUAWEI",
+      "address": "Москва, Крылатское",
+      "link": "https://hh.ru/employer/2873"
+    }
+  },
+  {
+    "name": "Ведущий разработчик группы интеграции и DWH (Data Engineer, ETL, DWH, T-SQL, SSIS)",
+    "link": "https://hh.ru/vacancy/46020714?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АО Р-Фарм",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/8121"
+    }
+  },
+  {
+    "name": "Системный аналитик в MirAccept",
+    "link": "https://hh.ru/vacancy/43735823?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АО Национальная система платежных карт",
+      "address": "Москва, Новокузнецкая и еще 2 ",
+      "link": "https://hh.ru/employer/1654251"
+    }
+  },
+  {
+    "name": "Qt/C++ Linux Developer",
+    "link": "https://hh.ru/vacancy/47244755?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Parallels",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1736538"
+    }
+  },
+  {
+    "name": "Ведущий системный аналитик",
+    "link": "https://hh.ru/vacancy/44905153?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Инфосистемы Джет",
+      "address": "Москва, Савеловская",
+      "link": "https://hh.ru/employer/3095"
+    }
+  },
+  {
+    "name": "Senior Data Scientist/ML Engineer SberDevices",
+    "link": "https://hh.ru/vacancy/45656342?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Senior Data Scientist/ML Engineer SberDevices",
+    "link": "https://hh.ru/vacancy/46688716?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Директор по данным",
+    "link": "https://hh.ru/vacancy/47336601?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Газпромбанк",
+      "address": "Москва, Серпуховская",
+      "link": "https://hh.ru/employer/3388?dpt=3388-3388-gazprom"
+    }
+  },
+  {
+    "name": "Cloud architect",
+    "link": "https://hh.ru/vacancy/48254761?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Parallels",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1736538"
+    }
+  },
+  {
+    "name": "Архитектор AutoML",
+    "link": "https://hh.ru/vacancy/49010297?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Selecty",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2406247"
+    }
+  },
+  {
+    "name": "Coordinator Pumping Stations (Tashkent)",
+    "link": "https://hh.ru/vacancy/49011719?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Brunel Russia",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1124"
+    }
+  },
+  {
+    "name": "Сетевой инженер",
+    "link": "https://hh.ru/vacancy/48083968?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Инфосистемы Джет",
+      "address": "Москва, Савеловская",
+      "link": "https://hh.ru/employer/3095"
+    }
+  },
+  {
+    "name": "Full-stack developer",
+    "link": "https://hh.ru/vacancy/44201085?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Parallels",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1736538"
+    }
+  },
+  {
+    "name": "Руководитель управления данными",
+    "link": "https://hh.ru/vacancy/49004082?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "BI Developer",
+    "link": "https://hh.ru/vacancy/48983508?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 2000,
+      "max": null,
+      "value": "EUR"
+    },
+    "employer": {
+      "name": "VIA SMS Group",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5445917"
+    }
+  },
+  {
+    "name": "Shortage, Loss & Damage Procurement Coordinator",
+    "link": "https://hh.ru/vacancy/48298937?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Филиал Новарктик Снс в г. Москве",
+      "address": "Москва, Шаболовская",
+      "link": "https://hh.ru/employer/4433691"
+    }
+  },
+  {
+    "name": "Technical Solutions Specialist",
+    "link": "https://hh.ru/vacancy/48149666?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Devexperts",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/52729"
+    }
+  },
+  {
+    "name": "QA-инженер «Риски малого бизнеса»",
+    "link": "https://hh.ru/vacancy/48953973?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 120000,
+      "max": 150000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская и еще 1 ",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Delivery Manager (dxFeed)",
+    "link": "https://hh.ru/vacancy/47866818?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Devexperts",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/52729"
+    }
+  },
+  {
+    "name": "Project manager мобильного приложения Моя Москва",
+    "link": "https://hh.ru/vacancy/48977286?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "MOS.RU",
+      "address": "Москва, Марксистская и еще 2 ",
+      "link": "https://hh.ru/employer/2624107"
+    }
+  },
+  {
+    "name": "Middle Data Scientist",
+    "link": "https://hh.ru/vacancy/48921749?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. Data Science",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-data"
+    }
+  },
+  {
+    "name": "Аналитик данных Big Data (SQL)",
+    "link": "https://hh.ru/vacancy/47733367?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Платформа ОФД",
+      "address": "Москва, Лужники и еще 1 ",
+      "link": "https://hh.ru/employer/3536900"
+    }
+  },
+  {
+    "name": "Инженер по сопровождению карточных сервисов",
+    "link": "https://hh.ru/vacancy/46448674?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Т1 Интеграция",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4872"
+    }
+  },
+  {
+    "name": "Civil Structural Architectural Engineer",
+    "link": "https://hh.ru/vacancy/45310077?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Филиал Акционерного Общества Песко Швейцария в г. Москве",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4512384"
+    }
+  },
+  {
+    "name": "Data Engineer (разработчик Big Data - Java/Scala)",
+    "link": "https://hh.ru/vacancy/46223423?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская и еще 1 ",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "MLOps Engineer",
+    "link": "https://hh.ru/vacancy/48937335?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Samsung Research Center",
+      "address": "Москва, Белорусская и еще 1 ",
+      "link": "https://hh.ru/employer/429"
+    }
+  },
+  {
+    "name": "Старший инженер технической поддержки",
+    "link": "https://hh.ru/vacancy/43072130?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО МТС Банк. IT",
+      "address": "Москва, Технопарк",
+      "link": "https://hh.ru/employer/4496?dpt=4496-4496-it"
+    }
+  },
+  {
+    "name": "Recruiter",
+    "link": "https://hh.ru/vacancy/48969520?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Siemens",
+      "address": "Москва, Новокузнецкая",
+      "link": "https://hh.ru/employer/2935"
+    }
+  },
+  {
+    "name": "Middle Data Scientist",
+    "link": "https://hh.ru/vacancy/43524482?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ЛАНИТ. Департамент корпоративных систем",
+      "address": "Москва, Алексеевская и еще 2 ",
+      "link": "https://hh.ru/employer/733?dpt=733-733-corp"
+    }
+  },
+  {
+    "name": "Ведущий инженер технической поддержки",
+    "link": "https://hh.ru/vacancy/45338506?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО МТС Банк. IT",
+      "address": "Москва, Технопарк",
+      "link": "https://hh.ru/employer/4496?dpt=4496-4496-it"
+    }
+  },
+  {
+    "name": "Руководитель группы (Data engineer)",
+    "link": "https://hh.ru/vacancy/48924269?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Ozon Fintech",
+      "address": "Москва, Выставочная и еще 2 ",
+      "link": "https://hh.ru/employer/2180?dpt=ozonru-2180-fintech"
+    }
+  },
+  {
+    "name": "Front-End Engineer (React/Vue)",
+    "link": "https://hh.ru/vacancy/48087694?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "AliExpress Россия",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2592107"
+    }
+  },
+  {
+    "name": "Разработчик DWH (Airflow + Python)",
+    "link": "https://hh.ru/vacancy/48936279?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "MERLION",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/816"
+    }
+  },
+  {
+    "name": "Инженер второй линии поддержки систем электронного документооборота",
+    "link": "https://hh.ru/vacancy/47495061?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Т1 Интеграция",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4872"
+    }
+  },
+  {
+    "name": "Инженер DataOps",
+    "link": "https://hh.ru/vacancy/48794257?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 350000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "L’etoile Digital",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5333428"
+    }
+  },
+  {
+    "name": "Руководитель проекта",
+    "link": "https://hh.ru/vacancy/48961548?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Marksman",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/9797"
+    }
+  },
+  {
+    "name": "Middle/Senior QA инженер (QA Automation)",
+    "link": "https://hh.ru/vacancy/45572956?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Softline",
+      "address": "Москва, Ботанический сад и еще 3 ",
+      "link": "https://hh.ru/employer/2381"
+    }
+  },
+  {
+    "name": "Senior Java developer / Senior Java Engineer",
+    "link": "https://hh.ru/vacancy/45748399?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "EGAR TECHNOLOGY, INC.",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4917"
+    }
+  },
+  {
+    "name": "Бизнес/Системный аналитик (web+app)",
+    "link": "https://hh.ru/vacancy/48809723?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ЗАО Группа компаний С7",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/766468"
+    }
+  },
+  {
+    "name": "DevOps инженер (SberData)",
+    "link": "https://hh.ru/vacancy/48934934?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Верхние Котлы и еще 1 ",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "DevOps инженер(MLOps)",
+    "link": "https://hh.ru/vacancy/46933012?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО «РУСАГРО», Группа компаний",
+      "address": "Москва, Добрынинская",
+      "link": "https://hh.ru/employer/23186?dpt=23186-23186-main"
+    }
+  },
+  {
+    "name": "Аналитик данных",
+    "link": "https://hh.ru/vacancy/48615581?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "FLEETCOR Россия",
+      "address": "Москва, Сокол",
+      "link": "https://hh.ru/employer/594824"
+    }
+  },
+  {
+    "name": "Security engineer",
+    "link": "https://hh.ru/vacancy/48505376?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Хайв Экспо Интернешнл",
+      "address": "Москва, Красносельская",
+      "link": "https://hh.ru/employer/3719391"
+    }
+  },
+  {
+    "name": "Document Controller O&G",
+    "link": "https://hh.ru/vacancy/48942709?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Brunel Russia",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1124"
+    }
+  },
+  {
+    "name": "Senior/Senior+ Java Back-end Engineer (удаленно)",
+    "link": "https://hh.ru/vacancy/46457195?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "IBS",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/139"
+    }
+  },
+  {
+    "name": "Инженер по обработке данных",
+    "link": "https://hh.ru/vacancy/48907287?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АО Гознак",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/99759"
+    }
+  },
+  {
+    "name": "Lead data product manager (R&D)",
+    "link": "https://hh.ru/vacancy/48906734?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Lamoda",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/780654"
+    }
+  },
+  {
+    "name": "Senior Business Analyst (Distribution team)",
+    "link": "https://hh.ru/vacancy/48916243?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Акуматика",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1055151"
+    }
+  },
+  {
+    "name": "Middle/Middle+ Java (Back-end) Engineer (удаленно)",
+    "link": "https://hh.ru/vacancy/46457312?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "IBS",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/139"
+    }
+  },
+  {
+    "name": "Supply Efficiency Analyst",
+    "link": "https://hh.ru/vacancy/47400854?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "СберМаркет",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1272486"
+    }
+  },
+  {
+    "name": "Руководитель группы разработки Data Science, Платформа чат-ботов / Сопровождение торговой площадки",
+    "link": "https://hh.ru/vacancy/48097939?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Ozon Информационные технологии",
+      "address": "Москва, Деловой центр и еще 2 ",
+      "link": "https://hh.ru/employer/2180?dpt=ozonru-2180-dev"
+    }
+  },
+  {
+    "name": "Technology Leadership Development Program",
+    "link": "https://hh.ru/vacancy/48365090?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Johnson & Johnson",
+      "address": "Москва, Крылатское",
+      "link": "https://hh.ru/employer/2768"
+    }
+  },
+  {
+    "name": "Senior/Lead Python Engineer (ML, Infrastructure)",
+    "link": "https://hh.ru/vacancy/48894153?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 4000,
+      "max": null,
+      "value": "EUR"
+    },
+    "employer": {
+      "name": "Greenscreens.AI",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5103893"
+    }
+  },
+  {
+    "name": "Тестировщик / QA инженер",
+    "link": "https://hh.ru/vacancy/48483344?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО Первая Грузовая Компания",
+      "address": "Москва, Бауманская и еще 2 ",
+      "link": "https://hh.ru/employer/219464"
+    }
+  },
+  {
+    "name": "Ruby on Rails",
+    "link": "https://hh.ru/vacancy/48921611?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 4500,
+      "max": 9000,
+      "value": "EUR"
+    },
+    "employer": {
+      "name": "ГК «ВИЗАВИ Консалт»",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1326"
+    }
+  },
+  {
+    "name": "QA Engineer / Тестировщик хранилища данных",
+    "link": "https://hh.ru/vacancy/47366954?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "X5 RETAIL GROUP",
+      "address": "Москва, Кузьминки",
+      "link": "https://hh.ru/employer/4233"
+    }
+  },
+  {
+    "name": "QA Engineer to Frontend Team (remote)",
+    "link": "https://hh.ru/vacancy/44725974?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 250000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Exness",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1312113"
+    }
+  },
+  {
+    "name": "Аналитик данных",
+    "link": "https://hh.ru/vacancy/46539554?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АО РТ Лабс",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/894410"
+    }
+  },
+  {
+    "name": "Senior Software Engineer (Golang)",
+    "link": "https://hh.ru/vacancy/42556899?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 250000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Exness",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1312113"
+    }
+  },
+  {
+    "name": "Applications Support Engineer",
+    "link": "https://hh.ru/vacancy/48237360?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 250000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Exness",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1312113"
+    }
+  },
+  {
+    "name": "Ведущий инженер по тестированию ПО / QA Engineer",
+    "link": "https://hh.ru/vacancy/44535625?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ЗАО 1С",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/882"
+    }
+  },
+  {
+    "name": "Airline Marketing Analyst",
+    "link": "https://hh.ru/vacancy/48887758?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Консалтинговая компания Авиаперсонал",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5595197"
+    }
+  },
+  {
+    "name": "Commodities eTrading Python Developer - [Global Markets Tech]",
+    "link": "https://hh.ru/vacancy/48871380?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АО Citibank",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2383"
+    }
+  },
+  {
+    "name": "Salesforce Developer",
+    "link": "https://hh.ru/vacancy/44602136?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 3000,
+      "max": null,
+      "value": "EUR"
+    },
+    "employer": {
+      "name": "Exness",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1312113"
+    }
+  },
+  {
+    "name": "Technical Writer (Analytics Platform)",
+    "link": "https://hh.ru/vacancy/46554813?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 170000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "JetBrains",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/9281"
+    }
+  },
+  {
+    "name": "Разработчик Scala/Data Engineer",
+    "link": "https://hh.ru/vacancy/47619322?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Т1 Консалтинг",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1060266"
+    }
+  },
+  {
+    "name": "Python разработчик",
+    "link": "https://hh.ru/vacancy/48440861?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Platform Engineer",
+    "link": "https://hh.ru/vacancy/45252447?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 250000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Exness",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1312113"
+    }
+  },
+  {
+    "name": "Senior Ruby&Golang Backend Developer (USA - remote, $)",
+    "link": "https://hh.ru/vacancy/48869871?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 6500,
+      "max": 8000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Hunt For You",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4456441"
+    }
+  },
+  {
+    "name": "Инженер-программист Java (удаленно)",
+    "link": "https://hh.ru/vacancy/48012165?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Bell Integrator",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/6189"
+    }
+  },
+  {
+    "name": "Regional Quality Systems Specialist Russia-CIS",
+    "link": "https://hh.ru/vacancy/48882908?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Abbott Laboratories",
+      "address": "Москва, Войковская",
+      "link": "https://hh.ru/employer/13789"
+    }
+  },
+  {
+    "name": "Senior Product Manager at Smartcat, Smartwords",
+    "link": "https://hh.ru/vacancy/47631314?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Smartcat",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3230136"
+    }
+  },
+  {
+    "name": "Senior DBA",
+    "link": "https://hh.ru/vacancy/48875209?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Дивигрупп",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4542749"
+    }
+  },
+  {
+    "name": "Customer Excellence Manager",
+    "link": "https://hh.ru/vacancy/48888802?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "DiDi",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4479185"
+    }
+  },
+  {
+    "name": "Data Scientist (GameDev)",
+    "link": "https://hh.ru/vacancy/48848666?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Spice Agency",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/654435"
+    }
+  },
+  {
+    "name": "QA Engineer/Инженер по тестированию (Трайб фронтальных решений)",
+    "link": "https://hh.ru/vacancy/47885058?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО МТС Банк. IT",
+      "address": "Москва, Технопарк",
+      "link": "https://hh.ru/employer/4496?dpt=4496-4496-it"
+    }
+  },
+  {
+    "name": "Ведущий инженер по функциональному тестированию",
+    "link": "https://hh.ru/vacancy/48829564?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Datana (ГК ЛАНИТ)",
+      "address": "Москва, Алексеевская и еще 2 ",
+      "link": "https://hh.ru/employer/733?dpt=733-733-datana"
+    }
+  },
+  {
+    "name": "Middle Data scientist",
+    "link": "https://hh.ru/vacancy/48540272?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Тульская",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/48792877?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. Data Science",
+      "address": "Москва, Кутузовская и еще 1 ",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-data"
+    }
+  },
+  {
+    "name": "Разработчик С++ (remote)",
+    "link": "https://hh.ru/vacancy/46212631?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Rambler Group",
+      "address": "Москва, Тульская",
+      "link": "https://hh.ru/employer/8620"
+    }
+  },
+  {
+    "name": "Release Engineer (Remotely)",
+    "link": "https://hh.ru/vacancy/48854731?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Exness",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1312113"
+    }
+  },
+  {
+    "name": "Site Reliability Engineer",
+    "link": "https://hh.ru/vacancy/48854795?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Exness",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1312113"
+    }
+  },
+  {
+    "name": "Data Engineer, дивизион «Занять и сберегать»",
+    "link": "https://hh.ru/vacancy/48795688?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "С++ разработчик",
+    "link": "https://hh.ru/vacancy/48548360?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Align Technology",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/27937"
+    }
+  },
+  {
+    "name": "Data Engineer Центра риск-технологий (внедрение моделей)",
+    "link": "https://hh.ru/vacancy/47908952?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Банк Открытие",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/23040"
+    }
+  },
+  {
+    "name": "Junior product manager",
+    "link": "https://hh.ru/vacancy/48855210?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 1500,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Osome",
+      "address": "Москва, Белорусская и еще 2 ",
+      "link": "https://hh.ru/employer/3395428"
+    }
+  },
+  {
+    "name": "Разработчик С++ (Проект AdTech)",
+    "link": "https://hh.ru/vacancy/45608461?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Rambler Group",
+      "address": "Москва, Тульская",
+      "link": "https://hh.ru/employer/8620"
+    }
+  },
+  {
+    "name": "DevOps Инженер/Инженер по развертыванию ПО",
+    "link": "https://hh.ru/vacancy/48698140?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО Первая Грузовая Компания",
+      "address": "Москва, Бауманская и еще 2 ",
+      "link": "https://hh.ru/employer/219464"
+    }
+  },
+  {
+    "name": "Исследователь мобильных приложений",
+    "link": "https://hh.ru/vacancy/48842330?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АО ИнфоТеКС",
+      "address": "Москва, Отрадное",
+      "link": "https://hh.ru/employer/3778"
+    }
+  },
+  {
+    "name": "CX Governance Intern within a leading global start-up !",
+    "link": "https://hh.ru/vacancy/48840064?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "DiDi",
+      "address": "Москва, Белорусская",
+      "link": "https://hh.ru/employer/4479185"
+    }
+  },
+  {
+    "name": "Data Engineer (цифровой двойник)",
+    "link": "https://hh.ru/vacancy/48788862?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Machine Learning Engineer в отдел Перформанса",
+    "link": "https://hh.ru/vacancy/45317201?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "VK",
+      "address": "Москва, Аэропорт",
+      "link": "https://hh.ru/employer/15478?dpt=mailru-15478-other"
+    }
+  },
+  {
+    "name": "IT Project Manager",
+    "link": "https://hh.ru/vacancy/48020836?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 3500,
+      "max": null,
+      "value": "EUR"
+    },
+    "employer": {
+      "name": "Wisebits",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1689648"
+    }
+  },
+  {
+    "name": "DWH Engineer",
+    "link": "https://hh.ru/vacancy/48047689?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Qlean",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1576236"
+    }
+  },
+  {
+    "name": "Data engineer (интеграция с источниками)",
+    "link": "https://hh.ru/vacancy/47279054?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "X5 RETAIL GROUP",
+      "address": "Москва, Парк культуры",
+      "link": "https://hh.ru/employer/4233"
+    }
+  },
+  {
+    "name": "Airline Marketing Analyst",
+    "link": "https://hh.ru/vacancy/48807718?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Coleman Services",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/124"
+    }
+  },
+  {
+    "name": "Дата инженер (Back End)",
+    "link": "https://hh.ru/vacancy/48810452?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Менеджер проектов\\Партнер по данным (Департамент машинного обучения и работе с данными)",
+    "link": "https://hh.ru/vacancy/48805084?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АльфаСтрахование",
+      "address": "Москва, Шаболовская",
+      "link": "https://hh.ru/employer/370"
+    }
+  },
+  {
+    "name": "Ведущий архитектор данных",
+    "link": "https://hh.ru/vacancy/45717462?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "X5 RETAIL GROUP",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4233"
+    }
+  },
+  {
+    "name": "Инженер данных (Data Office)",
+    "link": "https://hh.ru/vacancy/45652212?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сибур",
+      "address": "Москва, Профсоюзная",
+      "link": "https://hh.ru/employer/3809?dpt=sbr-3809-sibb"
+    }
+  },
+  {
+    "name": "Главный инженер по сопровождению (DevOps)",
+    "link": "https://hh.ru/vacancy/48373937?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская и еще 1 ",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data Quality Engineer",
+    "link": "https://hh.ru/vacancy/48764095?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "EPAM Systems, Inc.",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/6769"
+    }
+  },
+  {
+    "name": "Data инженер (Java)",
+    "link": "https://hh.ru/vacancy/48027171?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Mediascope",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2739341"
+    }
+  },
+  {
+    "name": "Head of Talent Acquisition / Recruiting Manager",
+    "link": "https://hh.ru/vacancy/48817572?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Quadcode",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1876072"
+    }
+  },
+  {
+    "name": "Big-Data and HPC Research Engineer",
+    "link": "https://hh.ru/vacancy/46485596?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "HUAWEI",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2873"
+    }
+  },
+  {
+    "name": "Senior Product manager SaaS AdTech",
+    "link": "https://hh.ru/vacancy/48608627?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Affise Inc.",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5000773"
+    }
+  },
+  {
+    "name": "Middle - Senior Analyst/Engineer",
+    "link": "https://hh.ru/vacancy/48770752?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 150000,
+      "max": 250000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "BelkaCar",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1749095"
+    }
+  },
+  {
+    "name": "Администратор Баз Данных (ДБА)",
+    "link": "https://hh.ru/vacancy/47892346?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "СБЕР (ООО еАптека)",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2104700"
+    }
+  },
+  {
+    "name": "System Administrator",
+    "link": "https://hh.ru/vacancy/48791746?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Airswift",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/181500"
+    }
+  },
+  {
+    "name": "ABAP-разработчик",
+    "link": "https://hh.ru/vacancy/48800047?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Джи Эс Эй Групп",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2851802"
+    }
+  },
+  {
+    "name": "HR Manager (engineering and construction management sector)",
+    "link": "https://hh.ru/vacancy/48803883?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ADELPHI",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/827573"
+    }
+  },
+  {
+    "name": "Python Developer",
+    "link": "https://hh.ru/vacancy/48896098?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 3000,
+      "max": 4000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Ergeon",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3833309"
+    }
+  },
+  {
+    "name": "Инженер Big Data",
+    "link": "https://hh.ru/vacancy/48723760?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 150000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "АО НПЦ СпецЭлектронСистемы",
+      "address": "Москва, Новослободская",
+      "link": "https://hh.ru/employer/3365485"
+    }
+  },
+  {
+    "name": "Инженер Big Data",
+    "link": "https://hh.ru/vacancy/47953449?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АО Спец-ЭК",
+      "address": "Москва, Новослободская",
+      "link": "https://hh.ru/employer/3360904"
+    }
+  },
+  {
+    "name": "Старший инженер автоматизации тестирования",
+    "link": "https://hh.ru/vacancy/48775746?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО МТС Банк. IT",
+      "address": "Москва, Технопарк",
+      "link": "https://hh.ru/employer/4496?dpt=4496-4496-it"
+    }
+  },
+  {
+    "name": "QA Automation Engineer (Golang)",
+    "link": "https://hh.ru/vacancy/48701713?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Vivid Money",
+      "address": "Москва, Динамо",
+      "link": "https://hh.ru/employer/4582320"
+    }
+  },
+  {
+    "name": "Technical support engineer/ Инженер по сопровождению (Team leader/ Senior)",
+    "link": "https://hh.ru/vacancy/46535459?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 160000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "CleverDATA",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/733?dpt=733-733-cledata"
+    }
+  },
+  {
+    "name": "QA Automation Engineer (Java/Kotlin)",
+    "link": "https://hh.ru/vacancy/48701751?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Vivid Money",
+      "address": "Москва, Динамо",
+      "link": "https://hh.ru/employer/4582320"
+    }
+  },
+  {
+    "name": "Payment System Operations Specialist, Global IT product company",
+    "link": "https://hh.ru/vacancy/45992135?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "FasterPay",
+      "address": "Москва, Арбатская и еще 2 ",
+      "link": "https://hh.ru/employer/4461390"
+    }
+  },
+  {
+    "name": "Salesforce Industries (Vlocity) Architect",
+    "link": "https://hh.ru/vacancy/48720784?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "CUSTOMERTIMES",
+      "address": "Москва, Павелецкая",
+      "link": "https://hh.ru/employer/3818429"
+    }
+  },
+  {
+    "name": "BI специалист / Дата-инженер",
+    "link": "https://hh.ru/vacancy/48709457?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 250000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО Сеть Партнерств",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5290101"
+    }
+  },
+  {
+    "name": "Data-инженер (Управляющий менеджер группы поддержки и развития хранилища данных)",
+    "link": "https://hh.ru/vacancy/45685260?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО Промсвязьбанк",
+      "address": "Москва, Павелецкая и еще 1 ",
+      "link": "https://hh.ru/employer/6591"
+    }
+  },
+  {
+    "name": "Manual QA Engineer (backend)",
+    "link": "https://hh.ru/vacancy/48701619?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Vivid Money",
+      "address": "Москва, Динамо",
+      "link": "https://hh.ru/employer/4582320"
+    }
+  },
+  {
+    "name": "Инженер по автоматизированному тестированию web",
+    "link": "https://hh.ru/vacancy/48716496?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО МТС Банк. Начало Карьеры",
+      "address": "Москва, Технопарк",
+      "link": "https://hh.ru/employer/4496?dpt=4496-4496-stud"
+    }
+  },
+  {
+    "name": "Developer in Test/Senior QA Engineer",
+    "link": "https://hh.ru/vacancy/47985081?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО МТС Банк. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4496?dpt=4496-4496-it"
+    }
+  },
+  {
+    "name": "Product manager (Edtech)",
+    "link": "https://hh.ru/vacancy/43958416?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Онлайн-школа Фоксфорд",
+      "address": "Москва, Тульская",
+      "link": "https://hh.ru/employer/5744540"
+    }
+  },
+  {
+    "name": "Product Owner (PO)",
+    "link": "https://hh.ru/vacancy/47919298?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 2500,
+      "max": 4000,
+      "value": "EUR"
+    },
+    "employer": {
+      "name": "Хоменко Г.И.",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2675286"
+    }
+  },
+  {
+    "name": "DevOps инженер java (ЦК АБС)",
+    "link": "https://hh.ru/vacancy/48712333?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АО ДОМ.РФ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/11680"
+    }
+  },
+  {
+    "name": "Technical Project manager",
+    "link": "https://hh.ru/vacancy/48723578?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 2500,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Coins.ph",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3934963"
+    }
+  },
+  {
+    "name": "Senior IT Recruiter (CIS)",
+    "link": "https://hh.ru/vacancy/48713455?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 130000,
+      "max": 200000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "SegmentStream",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1564038"
+    }
+  },
+  {
+    "name": "Load Testing Engineer (МТС Банк)",
+    "link": "https://hh.ru/vacancy/47985221?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО МТС Банк. IT",
+      "address": "Москва, Технопарк",
+      "link": "https://hh.ru/employer/4496?dpt=4496-4496-it"
+    }
+  },
+  {
+    "name": "Data Science (perception & planning), Автономный транспорт, Роботизация",
+    "link": "https://hh.ru/vacancy/47859873?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Ozon Информационные технологии",
+      "address": "Москва, Деловой центр и еще 2 ",
+      "link": "https://hh.ru/employer/2180?dpt=ozonru-2180-dev"
+    }
+  },
+  {
+    "name": "IT Systems Engineer / IT FSE",
+    "link": "https://hh.ru/vacancy/48693646?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "HUAWEI",
+      "address": "Москва, Крылатское",
+      "link": "https://hh.ru/employer/2873"
+    }
+  },
+  {
+    "name": "Senior/Lead DevOps Engineer (AWS stack)",
+    "link": "https://hh.ru/vacancy/48694593?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "instinctools",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/729888"
+    }
+  },
+  {
+    "name": "Инженер технической поддержки (карточные сервисы)",
+    "link": "https://hh.ru/vacancy/48709515?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Т1 Интеграция",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4872"
+    }
+  },
+  {
+    "name": "Senior Python Developer (SPACE)",
+    "link": "https://hh.ru/vacancy/48643383?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Deutsche Telekom IT Solutions (ex.T-Systems)",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/25"
+    }
+  },
+  {
+    "name": "Senior Fullstack Engineer for a US Startup (NodeJS)",
+    "link": "https://hh.ru/vacancy/46871314?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 2500,
+      "max": 5000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Affluent",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4340660"
+    }
+  },
+  {
+    "name": "Разработчик BigData",
+    "link": "https://hh.ru/vacancy/48099246?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Иннотех, Группа компаний",
+      "address": "Москва, Деловой центр",
+      "link": "https://hh.ru/employer/4649269"
+    }
+  },
+  {
+    "name": "Data Engineer (Торговое финансирование)",
+    "link": "https://hh.ru/vacancy/48612229?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Аналитик-разработчик",
+    "link": "https://hh.ru/vacancy/48188363?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 150000,
+      "max": 300000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО РАБЛЗ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2223982"
+    }
+  },
+  {
+    "name": "Math Algorithm Engineer IPP (data compression and data processing algorithms)",
+    "link": "https://hh.ru/vacancy/48607995?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Intel Corporation",
+      "address": "Москва, Крылатское",
+      "link": "https://hh.ru/employer/2716"
+    }
+  },
+  {
+    "name": "Devops Engineer (Remote)",
+    "link": "https://hh.ru/vacancy/47912398?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 200000,
+      "max": 320000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "IT_Selection",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/747028"
+    }
+  },
+  {
+    "name": "QA Engineer (Функциональный тестировщик ПО)",
+    "link": "https://hh.ru/vacancy/45754436?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "КОРУС Консалтинг",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/675"
+    }
+  },
+  {
+    "name": "Разработчик BigData/Разработчик моделей",
+    "link": "https://hh.ru/vacancy/48638672?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Ventra",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1838"
+    }
+  },
+  {
+    "name": "Data Engineer в Такси",
+    "link": "https://hh.ru/vacancy/45649814?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Яндекс",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1740"
+    }
+  },
+  {
+    "name": "IT Linux Engineer",
+    "link": "https://hh.ru/vacancy/48805994?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "HUAWEI",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2873"
+    }
+  },
+  {
+    "name": "ML инженер (RL) в Лабораторию Робототехники",
+    "link": "https://hh.ru/vacancy/48659495?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. Data Science",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-data"
+    }
+  },
+  {
+    "name": "Team leader",
+    "link": "https://hh.ru/vacancy/48287942?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Иннотех, Группа компаний",
+      "address": "Москва, Деловой центр",
+      "link": "https://hh.ru/employer/4649269"
+    }
+  },
+  {
+    "name": "DevOps Инженер",
+    "link": "https://hh.ru/vacancy/48640435?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "КРОК",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2987"
+    }
+  },
+  {
+    "name": "Software Development Engineer",
+    "link": "https://hh.ru/vacancy/48622332?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Intel Corporation",
+      "address": "Москва, Крылатское",
+      "link": "https://hh.ru/employer/2716"
+    }
+  },
+  {
+    "name": "Ведущий дата инженер",
+    "link": "https://hh.ru/vacancy/48657566?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Spice Agency",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/654435"
+    }
+  },
+  {
+    "name": "Senior QA Engineer",
+    "link": "https://hh.ru/vacancy/48625560?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Palta",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5080762"
+    }
+  },
+  {
+    "name": "Data Аналитик в команду Блока «Сеть продаж»",
+    "link": "https://hh.ru/vacancy/48622991?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. Data Science",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-data"
+    }
+  },
+  {
+    "name": "Data analyst",
+    "link": "https://hh.ru/vacancy/48581392?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 1500,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Osome",
+      "address": "Москва, Белорусская и еще 2 ",
+      "link": "https://hh.ru/employer/3395428"
+    }
+  },
+  {
+    "name": "QA Automation Engineer",
+    "link": "https://hh.ru/vacancy/48610153?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО УанСоил",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2818151"
+    }
+  },
+  {
+    "name": "Manual QA Engineer",
+    "link": "https://hh.ru/vacancy/48429221?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "SberTech",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/906557"
+    }
+  },
+  {
+    "name": "Ведущий Data engineer, Ozon Express",
+    "link": "https://hh.ru/vacancy/45276602?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Ozon Express",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2180?dpt=ozonru-2180-express"
+    }
+  },
+  {
+    "name": "IT Рекрутер",
+    "link": "https://hh.ru/vacancy/47846908?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Работа.ру",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1870"
+    }
+  },
+  {
+    "name": "Business/System Analyst",
+    "link": "https://hh.ru/vacancy/48584400?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Arrival LTD",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1751001?dpt=1751001-1751001-ltd"
+    }
+  },
+  {
+    "name": "ETL разработчик/Data Engineer",
+    "link": "https://hh.ru/vacancy/47819475?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Т1 Консалтинг",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1060266"
+    }
+  },
+  {
+    "name": "Главный инженер разработки",
+    "link": "https://hh.ru/vacancy/48602128?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Газпромбанк",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3388?dpt=3388-3388-gazprom"
+    }
+  },
+  {
+    "name": "Python разработчик",
+    "link": "https://hh.ru/vacancy/48570014?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская и еще 1 ",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Data engineer/Analyst DWH (Автоматизация управленческой отчётности)",
+    "link": "https://hh.ru/vacancy/48513621?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Младший специалист по ханипотам (Data hunter)",
+    "link": "https://hh.ru/vacancy/46117037?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Group-IB",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/653947"
+    }
+  },
+  {
+    "name": "Data Engineer\\Старший менеджер",
+    "link": "https://hh.ru/vacancy/47796927?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "«РОСБАНК, Societe Generale Group»",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/599?dpt=rosbank-599-bezo"
+    }
+  },
+  {
+    "name": "Senior Data Scientist в Лабораторию речевых технологий",
+    "link": "https://hh.ru/vacancy/48531083?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Контур",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/41862"
+    }
+  },
+  {
+    "name": "Инженер по работе с данными/Риск-аналитик (розничные кредитные риски)",
+    "link": "https://hh.ru/vacancy/48254756?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Центральный банк Российской Федерации",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/47858"
+    }
+  },
+  {
+    "name": "JavaScript Developer - remote",
+    "link": "https://hh.ru/vacancy/48607940?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Гулидова Галина Сергеевна",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5387234"
+    }
+  },
+  {
+    "name": "Data Engineer в команду Качества поиска",
+    "link": "https://hh.ru/vacancy/47488997?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Авито: продажи",
+      "address": "Москва, Белорусская",
+      "link": "https://hh.ru/employer/84585?dpt=84585-84585-prodazhi"
+    }
+  },
+  {
+    "name": "Java developer (middle , senior)",
+    "link": "https://hh.ru/vacancy/48558954?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 300000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ПАО ГЛОБАЛТРАК МЕНЕДЖМЕНТ",
+      "address": "Москва, Проспект Мира",
+      "link": "https://hh.ru/employer/3362417"
+    }
+  },
+  {
+    "name": "Аналитик по монетизации (Юла)",
+    "link": "https://hh.ru/vacancy/48585554?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "VK",
+      "address": "Москва, Аэропорт",
+      "link": "https://hh.ru/employer/15478?dpt=mailru-15478-other"
+    }
+  },
+  {
+    "name": "Инженер по сопровождению",
+    "link": "https://hh.ru/vacancy/48602023?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Газпромбанк",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3388?dpt=3388-3388-gazprom"
+    }
+  },
+  {
+    "name": "Senior Business analyst",
+    "link": "https://hh.ru/vacancy/48577314?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Компания «СПОРТМАСТЕР», Управление бизнесами",
+      "address": "Москва, Аэропорт",
+      "link": "https://hh.ru/employer/2343?dpt=2343-2343-busi"
+    }
+  },
+  {
+    "name": "Ведущий системный инженер",
+    "link": "https://hh.ru/vacancy/47728625?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Т1 Интеграция",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4872"
+    }
+  },
+  {
+    "name": "Инженер по информационной безопасности",
+    "link": "https://hh.ru/vacancy/47143124?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Счетная палата Российской Федерации",
+      "address": "Москва, Парк культуры и еще 1 ",
+      "link": "https://hh.ru/employer/3792849"
+    }
+  },
+  {
+    "name": "Тестировщик (QA engineer)",
+    "link": "https://hh.ru/vacancy/48376438?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 120000,
+      "max": 180000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО РАБЛЗ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2223982"
+    }
+  },
+  {
+    "name": "Senior Product Manager (Business Logic)",
+    "link": "https://hh.ru/vacancy/48564832?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Miro",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1084619"
+    }
+  },
+  {
+    "name": "Data Operations Engineer",
+    "link": "https://hh.ru/vacancy/39734082?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "АО Национальная система платежных карт",
+      "address": "Москва, Новокузнецкая и еще 2 ",
+      "link": "https://hh.ru/employer/1654251"
+    }
+  },
+  {
+    "name": "Data Infrastructure Engineer",
+    "link": "https://hh.ru/vacancy/48503510?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Газпромбанк",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3388?dpt=3388-3388-gazprom"
+    }
+  },
+  {
+    "name": "Shift IP Engineer",
+    "link": "https://hh.ru/vacancy/48568362?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 70000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО СОФТ ПРОЕКТ",
+      "address": "Москва, Парк культуры",
+      "link": "https://hh.ru/employer/4518588"
+    }
+  },
+  {
+    "name": "Senior Java Developer (System Engineer/ remote)",
+    "link": "https://hh.ru/vacancy/48489480?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 6000,
+      "max": 8000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Hunt For You",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4456441"
+    }
+  },
+  {
+    "name": "Machine Learning Engineer",
+    "link": "https://hh.ru/vacancy/48475773?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Machine Learning Engineer",
+    "link": "https://hh.ru/vacancy/47625315?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. Data Science",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-data"
+    }
+  },
+  {
+    "name": "Блокчейн разработчик на Solidity",
+    "link": "https://hh.ru/vacancy/48247992?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 5000,
+      "max": 8000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "ООО А-Платформа",
+      "address": "Москва, Новокузнецкая",
+      "link": "https://hh.ru/employer/2116392"
+    }
+  },
+  {
+    "name": "Администратор - эксперт 2-й линии сопровождения",
+    "link": "https://hh.ru/vacancy/48567632?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Java developer (Optiva)",
+    "link": "https://hh.ru/vacancy/48517111?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ZiMAD",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/780623"
+    }
+  },
+  {
+    "name": "Ведущий инженер по разработке Java с опытом С#",
+    "link": "https://hh.ru/vacancy/48528589?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Старший DevOps-инженер/ Senior DevOps Engineer",
+    "link": "https://hh.ru/vacancy/46434494?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Фольксваген Груп Рус",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/25763"
+    }
+  },
+  {
+    "name": "Data-аналитик в команду голосовых и текстовых ботов",
+    "link": "https://hh.ru/vacancy/48501671?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/48493498?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер. IT",
+      "address": "Москва, Кутузовская",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-it"
+    }
+  },
+  {
+    "name": "Software Engineer/Инженер-программист",
+    "link": "https://hh.ru/vacancy/48493308?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 200000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Siemens PLM Software",
+      "address": "Москва, Октябрьская и еще 2 ",
+      "link": "https://hh.ru/employer/128179"
+    }
+  },
+  {
+    "name": "Software Development Engineer (Mid/Senior, NodeJs, Remote)",
+    "link": "https://hh.ru/vacancy/48504101?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 3500,
+      "max": 5500,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Ennabl Inc",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5114471"
+    }
+  },
+  {
+    "name": "Разработчик Go (Recommendations)",
+    "link": "https://hh.ru/vacancy/47489139?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Авито: продажи",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/84585?dpt=84585-84585-prodazhi"
+    }
+  },
+  {
+    "name": "Senior QA Engineer, iTero",
+    "link": "https://hh.ru/vacancy/48025401?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Align Technology",
+      "address": "Москва, Тульская",
+      "link": "https://hh.ru/employer/27937"
+    }
+  },
+  {
+    "name": "Product Analyst",
+    "link": "https://hh.ru/vacancy/45273641?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Align Technology",
+      "address": "Москва, Тульская",
+      "link": "https://hh.ru/employer/27937"
+    }
+  },
+  {
+    "name": "RoR Team Lead",
+    "link": "https://hh.ru/vacancy/48480203?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "SOFTSWISS",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/672796"
+    }
+  },
+  {
+    "name": "Data инженер (DataOps)",
+    "link": "https://hh.ru/vacancy/47715981?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО Московская Биржа",
+      "address": "Москва, Охотный ряд",
+      "link": "https://hh.ru/employer/4307"
+    }
+  },
+  {
+    "name": "SEO Manager",
+    "link": "https://hh.ru/vacancy/48527036?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": null,
+      "max": 200000,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "Borzo",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3730831"
+    }
+  },
+  {
+    "name": "Deep Learning Software Engineer (Federated Learning/Computer Vision)",
+    "link": "https://hh.ru/vacancy/47597635?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Intel Corporation",
+      "address": "Москва, Крылатское",
+      "link": "https://hh.ru/employer/2716"
+    }
+  },
+  {
+    "name": "Researcher / Ethical hacker / Security Architector",
+    "link": "https://hh.ru/vacancy/48460244?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 2700,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "NeuraLegion",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5602716"
+    }
+  },
+  {
+    "name": "Manager Strategy & Projects (Volkswagen brand)",
+    "link": "https://hh.ru/vacancy/46617744?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Фольксваген Груп Рус",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/25763"
+    }
+  },
+  {
+    "name": "IT Security officer",
+    "link": "https://hh.ru/vacancy/48469203?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Тьюбоскан",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2337475"
+    }
+  },
+  {
+    "name": "Senior Node.js Developer",
+    "link": "https://hh.ru/vacancy/48495794?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Picsart",
+      "address": "Москва, Белорусская и еще 2 ",
+      "link": "https://hh.ru/employer/3842701"
+    }
+  },
+  {
+    "name": "Deep Learning Software Engineer (GNA)",
+    "link": "https://hh.ru/vacancy/46756865?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Intel Corporation",
+      "address": "Москва, Крылатское",
+      "link": "https://hh.ru/employer/2716"
+    }
+  },
+  {
+    "name": "Инженер сопровождения вычислительных комплексов (инфраструктурный мониторинг)",
+    "link": "https://hh.ru/vacancy/47147163?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Т1 Интеграция",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4872"
+    }
+  },
+  {
+    "name": "Инженер по обслуживанию оборудования ИТ-инфраструктуры в ЦОД",
+    "link": "https://hh.ru/vacancy/41779074?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Т1 Интеграция",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4872"
+    }
+  },
+  {
+    "name": "Senior Java Developer (Distributed Database Development)",
+    "link": "https://hh.ru/vacancy/47608762?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "GridGain Systems",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/234264"
+    }
+  },
+  {
+    "name": "Senior Java Developer",
+    "link": "https://hh.ru/vacancy/48639883?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 5000,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "ООО Ambaha Solutions",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1553899"
+    }
+  },
+  {
+    "name": "QA Engineer",
+    "link": "https://hh.ru/vacancy/46897117?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Cornerstone Russia",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1068"
+    }
+  },
+  {
+    "name": "Deep Learning/Computer Vision Engineer",
+    "link": "https://hh.ru/vacancy/47593927?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ISS",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/920361"
+    }
+  },
+  {
+    "name": "Data Engineer (проект для розничного блока Банка)",
+    "link": "https://hh.ru/vacancy/48434107?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Лига Цифровой Экономики",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2733062"
+    }
+  },
+  {
+    "name": "QA automation engineer",
+    "link": "https://hh.ru/vacancy/44265501?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Т1 Интеграция",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4872"
+    }
+  },
+  {
+    "name": "CAD Engineer/EDA Developer",
+    "link": "https://hh.ru/vacancy/46756376?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Intel Corporation",
+      "address": "Москва, Крылатское",
+      "link": "https://hh.ru/employer/2716"
+    }
+  },
+  {
+    "name": "Data engineer в направление промышленного интернета вещей",
+    "link": "https://hh.ru/vacancy/48444062?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ЛАНИТ- Интеграция",
+      "address": "Москва, Алексеевская и еще 2 ",
+      "link": "https://hh.ru/employer/733?dpt=733-733-integra"
+    }
+  },
+  {
+    "name": "QA engineer (Data-слой)",
+    "link": "https://hh.ru/vacancy/48437122?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Buyk",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5403422"
+    }
+  },
+  {
+    "name": "QA Specialist (Big Data)",
+    "link": "https://hh.ru/vacancy/48383816?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ПАО МегаФон, IT",
+      "address": "Москва, Маяковская и еще 2 ",
+      "link": "https://hh.ru/employer/3127?dpt=mgfn-3127-it"
+    }
+  },
+  {
+    "name": "Data Engineer (remote)",
+    "link": "https://hh.ru/vacancy/48337998?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Центр финансовых технологий Базис",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3129027"
+    }
+  },
+  {
+    "name": "Senior Software Developer (MPS)",
+    "link": "https://hh.ru/vacancy/48392819?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 250000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "JetBrains",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/9281"
+    }
+  },
+  {
+    "name": "Business Analyst (BA)",
+    "link": "https://hh.ru/vacancy/48419646?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 1000,
+      "max": null,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "Unikoom",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5144162"
+    }
+  },
+  {
+    "name": "Paid Marketing Manager/Head (remote)",
+    "link": "https://hh.ru/vacancy/48430644?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ZELF",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4313727"
+    }
+  },
+  {
+    "name": "Старший руководитель ИТ проектов /Business Technology Analyst Data & Analytics Russia, Ukraine & CIS",
+    "link": "https://hh.ru/vacancy/48405920?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Johnson & Johnson",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2768"
+    }
+  },
+  {
+    "name": "SRE (site reability engineer)",
+    "link": "https://hh.ru/vacancy/47448564?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Лига Ставок",
+      "address": "Москва, Белорусская",
+      "link": "https://hh.ru/employer/223129"
+    }
+  },
+  {
+    "name": "Стажёр отдела аналитики",
+    "link": "https://hh.ru/vacancy/47557916?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Адвентум",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/617434"
+    }
+  },
+  {
+    "name": "Clienteling and Data Intelligence Specialist in Cartier",
+    "link": "https://hh.ru/vacancy/48368725?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Richemont",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/42256"
+    }
+  },
+  {
+    "name": "Разработчик (аналитик) баз данных (Data Engineer)",
+    "link": "https://hh.ru/vacancy/46052504?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "BELUGA GROUP. Алкогольное направление. Офис",
+      "address": "Москва, Кропоткинская и еще 2 ",
+      "link": "https://hh.ru/employer/2368?dpt=2368-2368-alcof"
+    }
+  },
+  {
+    "name": "Chief Technology Officer (CTO)",
+    "link": "https://hh.ru/vacancy/48393018?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 9000,
+      "max": 10000,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "ГК «ВИЗАВИ Консалт»",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1326"
+    }
+  },
+  {
+    "name": "Инженер технической поддержки (Linux / DevOps) в Лабораторию Геймификации",
+    "link": "https://hh.ru/vacancy/48404896?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Системный аналитик (Tinkoff Asia)",
+    "link": "https://hh.ru/vacancy/48412434?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Тинькофф",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/78638"
+    }
+  },
+  {
+    "name": "Data engineer/дата инженер",
+    "link": "https://hh.ru/vacancy/47507009?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО ГПМ РТВ",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2155808?dpt=2155808-2155808-gpm"
+    }
+  },
+  {
+    "name": "Системный аналитик",
+    "link": "https://hh.ru/vacancy/48407226?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Альфа-Банк",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/80?dpt=80-80-bank"
+    }
+  },
+  {
+    "name": "DevOps инженер (в проект банка)",
+    "link": "https://hh.ru/vacancy/47508211?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 200000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО Айти. Бизнес Решения",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4833979"
+    }
+  },
+  {
+    "name": "Data Engineer розничного CVM",
+    "link": "https://hh.ru/vacancy/48307613?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Банк Открытие",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/23040"
+    }
+  },
+  {
+    "name": "Тестировщик (в проект банка)",
+    "link": "https://hh.ru/vacancy/47510871?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 150000,
+      "max": null,
+      "value": "руб."
+    },
+    "employer": {
+      "name": "ООО Айти. Бизнес Решения",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4833979"
+    }
+  },
+  {
+    "name": "Pre-sale Engineer",
+    "link": "https://hh.ru/vacancy/47675119?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Datana (ГК ЛАНИТ)",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/733?dpt=733-733-datana"
+    }
+  },
+  {
+    "name": "Разработчик BigData (batch модели)",
+    "link": "https://hh.ru/vacancy/48367812?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Selecty",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2406247"
+    }
+  },
+  {
+    "name": "Application Security Engineer",
+    "link": "https://hh.ru/vacancy/45084104?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Exness",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1312113"
+    }
+  },
+  {
+    "name": "Senior Java developer (SaaS, AWS, Remote)",
+    "link": "https://hh.ru/vacancy/46631118?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 4800,
+      "max": 6400,
+      "value": "USD"
+    },
+    "employer": {
+      "name": "ООО ClearScale",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1574063"
+    }
+  },
+  {
+    "name": "Product Manager - Investment / Crowdfunding",
+    "link": "https://hh.ru/vacancy/47535985?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "LATOKEN",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/2870783"
+    }
+  },
+  {
+    "name": "Deep Learning Research Engineer (audio/speech processing)",
+    "link": "https://hh.ru/vacancy/48274726?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Samsung Research Center",
+      "address": "Москва, Белорусская и еще 1 ",
+      "link": "https://hh.ru/employer/429"
+    }
+  },
+  {
+    "name": "Инженер сопровождения хранилища данных ODS",
+    "link": "https://hh.ru/vacancy/48322752?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Иннотех, Группа компаний",
+      "address": "Москва, Крестьянская застава и еще 1 ",
+      "link": "https://hh.ru/employer/4649269"
+    }
+  },
+  {
+    "name": "Product Manager (IntelliJ IDEA)",
+    "link": "https://hh.ru/vacancy/48348767?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "JetBrains",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/9281"
+    }
+  },
+  {
+    "name": "Разработчик ETL",
+    "link": "https://hh.ru/vacancy/44468751?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Сбер для экспертов",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3529?dpt=3529-3529-prof"
+    }
+  },
+  {
+    "name": "Product manager Medium Voltage switchgear - Transformers",
+    "link": "https://hh.ru/vacancy/47509420?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Schneider Electric",
+      "address": "Москва, Савеловская",
+      "link": "https://hh.ru/employer/3337"
+    }
+  },
+  {
+    "name": "Business Owner API",
+    "link": "https://hh.ru/vacancy/47774248?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Exness",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1312113"
+    }
+  },
+  {
+    "name": "SEO Optimization Specialist",
+    "link": "https://hh.ru/vacancy/48374510?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "VALEN",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1304784"
+    }
+  },
+  {
+    "name": "Network system Engineer (Data Center)",
+    "link": "https://hh.ru/vacancy/48289371?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Лаборатория Касперского",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1057"
+    }
+  },
+  {
+    "name": "Data scientist управления комплаенс-контроля",
+    "link": "https://hh.ru/vacancy/47435487?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Райффайзенбанк",
+      "address": "Москва, Технопарк",
+      "link": "https://hh.ru/employer/4023"
+    }
+  },
+  {
+    "name": "DevOps Engineer (Payment Systems Provider)",
+    "link": "https://hh.ru/vacancy/48292701?from=vacancy_search_list&query=data%20engineer",
+    "salary": {
+      "min": 3000,
+      "max": 4000,
+      "value": "EUR"
+    },
+    "employer": {
+      "name": "GA Tech",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/5518744"
+    }
+  },
+  {
+    "name": "Главный инженер",
+    "link": "https://hh.ru/vacancy/47282574?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Diamond Personnel R&C",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/37623"
+    }
+  },
+  {
+    "name": "Ведущий инженер web-разработки (Django)",
+    "link": "https://hh.ru/vacancy/48318009?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО UMA.Tech",
+      "address": "Москва, Маяковская",
+      "link": "https://hh.ru/employer/2155808?dpt=2155808-2155808-uma"
+    }
+  },
+  {
+    "name": "DevOps инженер (МТС Маркетолог)",
+    "link": "https://hh.ru/vacancy/48317997?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "ООО Стрим",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/939343"
+    }
+  },
+  {
+    "name": "Business analyst",
+    "link": "https://hh.ru/vacancy/48275646?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Акуматика",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/1055151"
+    }
+  },
+  {
+    "name": "Senior Frontend Engineer",
+    "link": "https://hh.ru/vacancy/47415853?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Advantage Solutions",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/4771438"
+    }
+  },
+  {
+    "name": "QA Automation Engineer",
+    "link": "https://hh.ru/vacancy/47494590?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "S8 Capital",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/3565331"
+    }
+  },
+  {
+    "name": "Account Manager VEON Group",
+    "link": "https://hh.ru/vacancy/48366359?from=vacancy_search_list&query=data%20engineer",
+    "salary": null,
+    "employer": {
+      "name": "Cisco Systems",
+      "address": "Москва",
+      "link": "https://hh.ru/employer/114534"
+    }
+  }
+]
